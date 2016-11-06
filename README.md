@@ -1,11 +1,9 @@
 # Jenkins swarm slave
 
-[`icereed/jenkins-swarm-slave`](https://registry.hub.docker.com/u/icereed/jenkins-swarm-slave-docker/)
+[`icereed/jenkins-swarm-slave-docker`](https://registry.hub.docker.com/u/icereed/jenkins-swarm-slave-docker/)
 
 A [Jenkins swarm](https://wiki.jenkins-ci.org/display/JENKINS/Swarm+Plugin) slave.
 
-For a container with ssh enabled see
-[`icereed/jenkins-slave`](https://registry.hub.docker.com/u/icereed/jenkins-swarm-slave-docker/)
 
 ## Running
 
